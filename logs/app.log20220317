@@ -1,0 +1,7 @@
+[INFO][auth.go:21]2022/03/17 10:30:32 [%s %s test test123456]
+[INFO][auth.go:21]2022/03/17 10:31:09 [test test123456]
+[INFO][auth.go:21]2022/03/17 14:35:21 [test test123456]
+[INFO][main.go:34]2022/03/17 18:53:23 [Shutdown Server ...]
+[INFO][main.go:41]2022/03/17 18:53:23 [Server exiting]
+[INFO][main.go:38]2022/03/17 18:53:54 [Shutdown Server ...]
+[INFO][main.go:45]2022/03/17 18:53:54 [Server exiting]
